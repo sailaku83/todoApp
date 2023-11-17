@@ -4,8 +4,8 @@ Developed a simple Todo-App using Back4App Rest API with CRUD operations and a s
 
 **About this project**
 
-This project is a project developed with Flutter for the front end andback4api rest API for the back end
-Flutter app is state-managed architecture
+This project is a project developed with Flutter for the front end and back4api rest API for the back end
+Flutter app is a state-managed architecture
 
 **Landing page**
 
