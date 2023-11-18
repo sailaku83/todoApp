@@ -7,6 +7,32 @@ Developed a simple Todo-App using Back4App Rest API with CRUD operations and a s
 This project is a project developed with Flutter for the front end and back4api rest API for the back end
 Flutter app is a state-managed architecture
 
+**Steps to run**
+
+Step 1 - Creating a new Flutter project
+Open the cmd or terminal (depending on your operating system) and create your new project called “flutter_project”:
+
+flutter create flutter_project
+
+Check if everything is OK Running the application:
+
+cd flutter_project
+flutter run
+
+Step 2 - Installing Flutter plugins as dependencies
+You will add the table_calendar and parse_server_sdk_flutter to the project dependencies. Go to pubspec.yaml and add the following:
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  table_calendar: any
+  parse_server_sdk_flutter: any
+
+  
 **Landing page**
 
 ![image](https://github.com/sailaku83/todoApp/assets/126805311/72b325c1-9bfe-4d78-854c-e4be95b0b44d)
